@@ -9,3 +9,18 @@ Enter the following string of commands in your terminal
 pip install Install Pillow
 ```
 3.There are only two steps, congratulations you have completed!
+
+---
+
+chinese:
+# golly-save-image
+我更新了這個插件，這個插件原本使用的PIL只支援到python2.7，golly現在使用的是python3.0以上的版本，所以我將這個插件使用的數據庫更新為Pillow
+
+#使用前的準備事項
+1.你需要先下載python，版本必須為3.0以上的版本
+2.下載 Pillow 模組
+將下面這串指令輸入到你的終端
+```
+pip install Install Pillow
+```
+3.步驟就降 你完成了!
