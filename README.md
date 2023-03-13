@@ -1,0 +1,1 @@
+# golly-save-image
