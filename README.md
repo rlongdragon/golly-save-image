@@ -1,5 +1,5 @@
 # golly-save-image
-I updated this plugin. The PIL originally used by this plugin only supports python2.7. Golly now uses a version above python3.0, so I updated the database used by this plugin to Pillow
+I updated this plugin. The PIL originally used by this plugin only supports python2.7. Golly now use versions above python3.0, so I updated the database used by this plugin to Pillow
 
 # Pre-work before use
 1. You need to download python first, the version must be above 3.0
@@ -24,3 +24,7 @@ chinese:
 pip install Install Pillow
 ```
 3. 步驟就降 你完成了!
+
+
+> Thanks Kahiao for helping with the translation
+> 感謝魔夜協助翻譯
